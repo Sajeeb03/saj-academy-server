@@ -4,13 +4,20 @@ const app = express();
 app.use(cors());
 
 const port = process.env.Port || 5000;
+const courses = require('./data/courses.json')
 
 app.get('/', (req, res) => {
     res.send("Learning-platform-server is running")
 })
 
 app.get("/courses", (req, res) => {
-    res.send("Hello")
+    res.send(courses)
+})
+
+app.get("/courses/:id", (req, res) => {
+    const id = req.params.id;
+    const course = courses.find(cr => cr.id === id)
+    res.send(course)
 })
 
 app.listen(port, () => {

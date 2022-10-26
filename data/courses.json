@@ -1,0 +1,127 @@
+[
+    {
+        "id": "6358ba0ca0ed0bcb072df8c2",
+        "img": "https://i.ibb.co/Yfzdyn9/ai-nuclear-energy-background-future-innovation-disruptive-technology-53876-129783.jpg",
+        "price": 328,
+        "title": "Introduction to Artificial Intelligence (AI)",
+        "details": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "Understand what is AI, its applications and use cases and how it is transforming our lives",
+                "Explain terms like Machine Learning, Deep Learning and Neural Networks",
+                "Describe several issues and ethical concerns surrounding AI",
+                "Articulate advice from experts about learning and starting a career in AI"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c736758585371389a",
+        "img": "https://i.ibb.co/FJJ8zPr/robot-humanoid-use-laptop-sit-table-big-data-analytic-31965-9305.jpg",
+        "price": 214,
+        "title": "Artificial Intelligence in Marketing",
+        "details": "AI is everywhere! By harnessing the power of Artificial Intelligence, businesses and marketers have amazing growth potential, and the opportunities to enhance marketing with AI are always expanding. But how can businesses use AI tools to drive their success and gain sustainable competitive advantages? What are the challenges faced by businesses as they implement AI into their marketing strategies? You will examine three key forces that enable AI in marketing strategies - Algorithms, Networks, and Data - and gain a deeper understanding of how businesses in a wide variety of industries can get the most out of this exciting technology. You will see real world examples of successful companies like Ford, Netflix, and the Washington Post using AI to take on the competition in new and creative ways, and hear from experts about how AI is shaping the present and the future in their respective industries. ",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "How to use data-driven AI to improve customer engagement",
+                "How to develop networked business models and leverage network effects",
+                "How to build a sustainable competitive advantage from data gathered on digital platforms",
+                "How to use algorithms, networks, and data to create AI Relationship Moments that are personalized to individual customers"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c73f233f5ee0a19a3",
+        "img": "https://i.ibb.co/Wyb3DKc/combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration-456031-12.jpg",
+        "price": 303,
+        "title": "Machine Learning",
+        "details": "The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.This 3-course Specialization is an updated version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "How to use data-driven AI to improve customer engagement",
+                "How to develop networked business models and leverage network effects",
+                "How to build a sustainable competitive advantage from data gathered on digital platforms",
+                "How to use algorithms, networks, and data to create AI Relationship Moments that are personalized to individual customers"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c745c4310d9a0483c",
+        "img": "https://i.ibb.co/khv4nbR/abstract-wireframe-digital-human-female-face-streaming-matrix-digital-binary-code-background-ai-arti.jpg",
+        "price": 295,
+        "title": "AI in Healthcare Specialization",
+        "details": "Artificial intelligence (AI) has transformed industries around the world, and has the potential to radically alter the field of healthcare. Imagine being able to analyze data on patient visits to the clinic, medications prescribed, lab tests, and procedures performed, as well as data outside the health system -- such as social media, purchases made using credit cards, census records, Internet search activity logs that contain valuable health information, and you’ll get a sense of how AI could transform patient care and diagnoses.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "Artificial intelligence (AI) has transformed industries around the world, and has the potential to radically alter the field of healthcare. Imagine being able to analyze data on patient visits to the clinic, medications prescribed, lab tests, and procedures performed, as well as data outside the health system -- such as social media, purchases made using credit cards, census records, Internet search activity logs that contain valuable health information, and you’ll get a sense of how AI could transform patient care and diagnoses."
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c227b0e8d564af8f3",
+        "img": "https://i.ibb.co/WF59Cg6/robot-handshake-human-background-futuristic-digital-age-53876-129770.jpg",
+        "price": 166,
+        "title": "AI for Medicine Specialization",
+        "details": "AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. This three-course Specialization will give you practical experience in applying machine learning to concrete problems in medicine.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                " Diagnose diseases from x-rays and 3D MRI brain images",
+                " Predict patient survival rates more accurately using tree-based models",
+                " Estimate treatment effects on patients using data from randomized trials",
+                " Automate the task of labeling medical datasets using natural language processing"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0ce13ecaf16387fcd3",
+        "img": "https://i.ibb.co/6wX5JYh/ai-technology-brain-background-digital-transformation-concept-53876-124672.jpg",
+        "price": 322,
+        "title": "Machine Learning",
+        "details": "The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)",
+                "  Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods",
+                "Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection",
+                "Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c970288276fc41c07",
+        "img": "https://i.ibb.co/Y7dgTp7/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-conce.jpg",
+        "price": 336,
+        "title": "Mathematics for Machine Learning",
+        "details": "For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "Implement mathematical concepts using real-world data",
+                "Derive PCA from a projection perspective",
+                "Understand how orthogonal projections work",
+                "Master PCA"
+            ]
+        }
+    },
+    {
+        "id": "6358ba0c1a9f8dca3f365da8",
+        "img": "https://i.ibb.co/hLNcT3v/blue-technology-circuit-diagram-with-glowing-line-lights-1017-17266.jpg",
+        "price": 216,
+        "title": "Introduction to Machine Learning",
+        "details": "This four-course Specialization will help you gain the introductory skills to succeed in an in-demand career in machine learning and data science. After completing this program, you’ll be able to realize the potential of machine learning algorithms and artificial intelligence in different business scenarios. You’ll be able to identify when to use machine learning to explain certain behaviors and when to use it to predict future outcomes. You’ll also learn how to evaluate your machine learning models and to incorporate best practices. ",
+        "category": "AI",
+        "body": {
+            "learnings": [
+                "Understand the potential applications of machine learning",
+                "Gain technical skills like SQL, machine learning modelling, supervised and unsupervised learning, regression, and classification.",
+                "Identify opportunities to leverage machine learning in your organization or career",
+                "Communicate findings from your machine learning projects to experts and non-experts"
+            ]
+        }
+    }
+]
